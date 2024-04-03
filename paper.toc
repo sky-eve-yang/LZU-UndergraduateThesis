@@ -1,0 +1,26 @@
+\contentsline {chapter}{中文摘要}{I}{section*.1}%
+\contentsline {chapter}{英文摘要}{II}{section*.2}%
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪 \hskip 1em\relax 论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}课题背景及意义}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}latex部分用法简介}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}用latex需要安装什么}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}常用的一些东西}{2}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}国际三线表格}{2}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}换页表格}{3}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}字体}{4}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}图，并列排}{4}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}公式}{5}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}公式加粗、斜体、字体}{5}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}一些特殊符号}{5}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}左边大括号}{5}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}复杂公式}{6}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}等号对齐站}{6}{subsection.2.2.10}%
+\contentsline {subsection}{\numberline {2.2.11}矩阵乘法}{6}{subsection.2.2.11}%
+\contentsline {subsection}{\numberline {2.2.12}附页代码}{6}{subsection.2.2.12}%
+\contentsline {subsection}{\numberline {2.2.13}参考文献}{7}{subsection.2.2.13}%
+\contentsline {subsubsection}{中英文参考文献说明}{7}{subsubsection*.10}%
+\contentsline {subsection}{\numberline {2.2.14}引用图、表、公式、章节}{8}{subsection.2.2.14}%
+\contentsline {chapter}{参考文献}{9}{section*.11}%
+\contentsline {chapter}{附 \hskip 2em\relax 录}{10}{section*.13}%
+\contentsline {chapter}{致\hskip 2em\relax 谢}{11}{section*.15}%

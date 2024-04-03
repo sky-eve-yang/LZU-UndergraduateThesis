@@ -1,0 +1,54 @@
+\providecommand{\href}[2]{#2}\begingroup\zihao{5}\begin{thebibliography}{10}\linespread{1}\selectfont\setlength{\baselineskip}{16pt}\setlength{\parskip}{0pt}
+\makeatletter
+\providecommand \href@noop [0]{\@secondoftwo}%
+
+\bibitem{partl2016}
+Partl H, Hyna I, 兰朵儿, et~al. { 一份不太简短的 latex2$\varepsilon$
+  介绍}[J]. 测试期刊, 2016, 360(6403):444--446.
+
+\bibitem{tenne1992polyhedral}
+Tenne R, Margulis L, Genut M~e, et~al. { Polyhedral and cylindrical structures
+  of tungsten disulphide}[J]. Nature, 1992, 360(6403):444--446.
+
+\bibitem{tussyadiah2015hotels}
+Tussyadiah I, Zach F. { Hotels vs. peer-to-peer accommodation rentals: Text
+  analytics of consumer reviews in portland, oregon}[C]. Proceedings of
+  Proceedings of 2015 TTRA International Conference, Whitehall, MI, USA, 2015.
+  Travel and Tourism Research Association, TTRA.
+
+\bibitem{partl2021}
+Partl H, Hyna I, 兰朵儿, 等. { 国家一个中文等测试}[J].
+  测试期刊, 2021, 3(6):10--20.
+
+\bibitem{partl2022-2}
+兰朵儿. { 大写字母测试{MnmN}}[J]. 测试期刊, 2021, 3(6):10--20.
+
+\bibitem{partl2022-3}
+兰朵儿. { 连接符号\&测试}[J]. 测试期刊, 2021, 3(6):10--20.
+
+\bibitem{partl2022}
+兰朵儿. { 国家一个中文空格测试}[J]. 测试期刊, 2021,
+  3(6):10--20.
+
+\bibitem{李刚2006基于动态光谱的脉搏血氧测量精度分析}
+李刚, 李尚颖, 林凌, 等. {
+  基于动态光谱的脉搏血氧测量精度分析}[J].
+  光谱学与光谱分析, 2006, 26(10):1821--1824.
+
+\bibitem{PhysRevLett.108.024101}
+Bittner S, Dietz B, G\"unther U, et~al. { {$\mathcal{P}\mathcal{T}$ Symmetry
+  and Spontaneous Symmetry Breaking in a Microwave Billiard}}[J]. Phys. Rev.
+  Lett., 2012, 108:024101.
+
+\bibitem{intelnewsroomIntelUnveils12th2021}
+Newsroom I. { Intel {Unveils} 12th {Gen} {Intel} {Core}, {Launches} {World}’s
+  {Best} {Gaming}...}[DB/OL].
+  {\url{https://www.intel.com/content/www/us/en/newsroom/news/12th-gen-core-processors.html}},
+  October, 2021.
+
+\bibitem{wilsonHistoryDevelopmentParallel1994}
+Wilson G~V. { The {History} of the {Development} of {Parallel} {Computing}}[Z],
+  October, 1994.
+  {\url{https://webdocs.cs.ualberta.ca/~paullu/C681/parallel.timeline.html}}.
+
+\end{thebibliography}\endgroup
